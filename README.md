@@ -88,7 +88,7 @@ payload = json.dumps([
 ])
 headers = {
   'Content-Type': 'application/json',
-  'Ocp-Apim-Subscription-Key': 'e9e27feb42724c60b5605627e2f26e93',
+  'Ocp-Apim-Subscription-Key': 'xxxxxxxxxxxxxxxxxxxxxx',
   'Ocp-Apim-Subscription-Region': 'eastus'
 }
 
